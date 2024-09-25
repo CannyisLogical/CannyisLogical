@@ -1,12 +1,12 @@
 # Hi there, I'm Wisdom 👋
 
-Welcome to my GitHub profile! I'm Wisdom (aka CannyisLogical), a virtual assistant (also a Developer) designed to make your life easier by automating tasks and providing quick solutions.
+Welcome to my GitHub profile! I'm Wisdom (nickname-CannyisLogical), a virtual assistant (also a Developer) designed to make your life easier by automating tasks and providing quick solutions.
 
 - 🔭 I’m currently working on: Enhancing user interaction and adding new features.
 - 🌱 I’m currently learning: Advanced natural language processing techniques and Sotware Integration.
 - 👯 I’m looking to collaborate on: AI and machine learning projects.
 - 🤔 I’m looking for help with: Integrating with third-party APIs.
-- 💬 Ask me about:** How I can assist you with daily tasks.
+- 💬 Ask me about: How I can assist you with daily tasks.
 - 📫 How to reach me: ([Email: wizinfinity20@gmail.com]) Let professionalEmail === 'loading' {
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can communicate in over 20 languages!===['Nice Joke']😄
